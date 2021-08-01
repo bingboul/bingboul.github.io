@@ -1,11 +1,10 @@
 body {
-  background-color: yellow;
+  background-color: aqua;
   margin:200px auto;
   max-width:550px;
   line-height:1.6;
   font-size:18px;
-  font-weight:bold;
-  color: pink;
+  color: black;
   padding:0 10px;
 
 }
